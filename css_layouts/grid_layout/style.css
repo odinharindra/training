@@ -1,0 +1,21 @@
+body {
+  font-size: 16px;
+  padding: 0;
+  font-family: lato, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 1fr 4fr 1fr;
+  grid-gap: 16px;
+}
+
+.item {
+  height: 200px;
+  border: 1px solid red;
+  background: rgba(255, 0, 0, 0.2);
+}
