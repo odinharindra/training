@@ -12,18 +12,29 @@ html {
   font-family: "Space Grotesk", sans-serif;
 }
 
-header,
+body {
+  font-size: 1.6rem;
+}
+
+/* header,
 footer,
 section {
   padding: 2rem;
-  border: 2px solid red;
-  background-color: rgba(255, 0, 0, 0.1);
+} */
+
+.container {
+  display: block;
+  padding: 0rem 1.5rem;
+  max-width: 1220px;
+  margin: 0rem auto;
 }
 
-footer {
-  font-size: 16px;
+.d-grid {
+  display: grid;
+  gap: 2rem;
 }
 
-footer span {
-  font-size: 24px;
+img {
+  display: block;
+  width: 100%;
 }
