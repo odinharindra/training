@@ -1,4 +1,6 @@
-@import url("./_header.css");
 @import url("./_theme.css");
+@import url("./_header.css");
 @import url("./_hero.css");
 @import url("./_video-platforms.css");
+@import url("./_about-the-show.css");
+@import url("./_recent-videos.css");

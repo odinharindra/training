@@ -1,0 +1,16 @@
+#video-platforms {
+  grid-template-columns: 200px 1fr;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#video-platforms .platform-logos {
+  grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
+  justify-content: space-between;
+  align-items: center;
+}
+
+.platform-heading {
+  font-size: 1.8rem !important;
+  color: #5f5d68;
+}

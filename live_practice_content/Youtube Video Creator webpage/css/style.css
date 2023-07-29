@@ -16,6 +16,21 @@ body {
   font-size: 1.6rem;
 }
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #14142b;
+  line-height: 1.25;
+}
+
+h2 {
+  font-size: 3.8rem;
+  font-weight: 700;
+}
+
 /* header,
 footer,
 section {
@@ -29,6 +44,11 @@ section {
   margin: 0rem auto;
 }
 
+section.major {
+  padding-top: 7.5rem;
+  padding-bottom: 7.5rem;
+}
+
 .d-grid {
   display: grid;
   gap: 2rem;
@@ -37,4 +57,8 @@ section {
 img {
   display: block;
   width: 100%;
+}
+
+.text-center {
+  text-align: center;
 }

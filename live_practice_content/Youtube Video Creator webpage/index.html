@@ -4,8 +4,9 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
-    <link rel="stylesheet" href="./css/__index.css" />
+
     <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/__index.css" />
   </head>
   <body>
     <header>
@@ -41,43 +42,92 @@
     </header>
 
     <!-- Hero section start -->
-    <section id="hero-section">
-      <div class="container d-grid">
-        <!-- Displaying as 2 column grid -->
-        <div class="hero-content">
-          <h1 class="hero-title">An YouTube Channel for entrepreneurs</h1>
-          <p class="hero-description">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor viverra eget sit sapien,
-            velit scelerisque volutpat vitae.
-          </p>
-          <div class="hero-cta-buttons">
-            <a class="btn btn-primary" href="#">Subscribe</a>
-            <a class="btn" href="#">Last Video</a>
-          </div>
+    <section class="major container d-grid" id="hero-section">
+      <!-- Displaying as 2 column grid -->
+      <div class="hero-content">
+        <h1 class="hero-title">An YouTube Channel for entrepreneurs</h1>
+        <p class="hero-description">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor viverra eget sit sapien,
+          velit scelerisque volutpat vitae.
+        </p>
+        <div class="hero-cta-buttons">
+          <a class="btn btn-primary" href="#">Subscribe</a>
+          <a class="btn" href="#">Last Video</a>
         </div>
-        <div class="hero-banner">
-          <div class="grey-bg">
-            <img
-              class="hero-image"
-              src="./images/hero-image.jpg"
-              alt="women holding video camera"
-            />
-          </div>
+      </div>
+      <div class="hero-banner">
+        <div class="grey-bg">
+          <img class="hero-image" src="./images/hero-image.jpg" alt="women holding video camera" />
         </div>
       </div>
     </section>
     <!-- Hero section end -->
 
     <!-- Platforms section start -->
-    <section id="video-platforms">Platforms section</section>
+    <section class="major container d-grid" id="video-platforms">
+      <div>
+        <h2 class="platform-heading">Videos avaible at</h2>
+      </div>
+      <div class="platform-logos d-grid">
+        <img src="./images/yt_logo.png" alt="Youtube platform logo" />
+        <img src="./images/twitch_logo.png" alt="Twitch platform logo" />
+        <img src="./images/fb_logo.png" alt="Facebook platform logo" />
+        <img src="./images/tt_logo.png" alt="TikTok platform logo" />
+      </div>
+    </section>
     <!-- Platforms section end -->
 
     <!-- About the show section start -->
-    <section id="about-the-show">About the show section</section>
+    <section class="major container d-grid" id="about-the-show">
+      <div class="show-images">
+        <div class="floating-images">
+          <img src="./images/about_show_01.jpeg" alt="" />
+          <img src="./images/about_show_2.jpeg" alt="" />
+        </div>
+      </div>
+      <div class="show-description d-grid">
+        <h2 class="_title">About the show</h2>
+        <p>
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim arcu cursus tincidunt
+          et odio enim aliquam. Gravida augue arcu duis turpis nisl. Sed tellus quis nisl, est
+          ridiculus. Gravida faucibus in ut hendrerit. Eget sed sit.
+        </p>
+        <ul>
+          <li>Created for young entrepreneurs</li>
+          <li>New videos every week</li>
+          <li>Interviews with famous guests</li>
+        </ul>
+        <div><a class="btn" href="#">Last Video</a></div>
+      </div>
+    </section>
     <!-- About the show section end -->
 
     <!-- Recent videos section start -->
-    <section id="recent-videos">Recent videos section</section>
+    <section class="major light-bg" id="recent-videos">
+      <div class="container d-grid">
+        <h2 class="text-center">Recent Videos</h2>
+        <div class="_teasers d-grid">
+          <div class="teaser-card">
+            <div class="_thumb-nail"></div>
+            <div class="_teser-content">
+              <div class="_title">
+                <h4>Video 6: Learn more about marketing</h4>
+              </div>
+              <div class="_description">
+                <p>
+                  Cras ultricies ligula sed magna dictum porta. Praesent sapien massa, convallis a
+                  pellentesque nec, egestas non nisi.
+                </p>
+              </div>
+              <div class="_cta-liks">
+                <a href="#">▶ Watch Now</a>
+                <a href="#">Video 06</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
     <!-- Recent videos section end -->
 
     <!-- Newsletter subscription section start -->

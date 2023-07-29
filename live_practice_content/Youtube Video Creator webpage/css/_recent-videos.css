@@ -1,0 +1,19 @@
+#recent-videos ._teasers {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+._teasers .teaser-card {
+  background-color: white;
+  border-radius: 4rem;
+  overflow: hidden;
+}
+
+#recent-videos ._teasers ._thumb-nail {
+  aspect-ratio: 0.9;
+  background-image: url("../images/recent_01.jpeg");
+  background-position: center center;
+  background-size: cover;
+}
+._teser-content {
+  padding: 5rem 3rem;
+}

@@ -1,3 +1,7 @@
+.light-bg {
+  background-color: #eff0f6;
+}
+
 .btn {
   display: inline-flex;
   padding: 2rem 4rem;
@@ -37,4 +41,15 @@
   background-color: #14142b;
   border-color: #14142b;
   color: #ffffff;
+}
+
+p {
+  font-size: 1.8rem;
+  color: #8c8c95;
+  line-height: 1.5;
+}
+
+ul {
+  color: #14142b;
+  font-size: 1.8rem;
 }

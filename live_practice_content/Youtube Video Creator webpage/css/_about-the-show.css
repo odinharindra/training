@@ -1,0 +1,66 @@
+section#about-the-show {
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10rem;
+  align-items: center;
+  justify-content: stretch;
+}
+
+section#about-the-show .floating-images {
+  width: 45rem;
+  height: 43rem;
+  position: relative;
+  margin: 0rem auto;
+  background-color: #eff0f6;
+}
+
+section#about-the-show .floating-images img {
+  position: absolute;
+  width: 40rem;
+}
+
+section#about-the-show .floating-images img:first-child {
+  left: -5.6rem;
+  top: -4rem;
+}
+
+section#about-the-show .floating-images img:last-child {
+  right: -5.6rem;
+  bottom: -4rem;
+}
+
+.show-description {
+  grid-template-columns: 1fr;
+  gap: 3.5rem;
+}
+
+.show-description ._title {
+  font-size: 3.8rem;
+  font-weight: 700;
+}
+
+.show-description ul {
+  margin-left: 2rem;
+  font-weight: 700;
+  /* list-style: url("../images/list-disk.svg"); */
+  list-style: none;
+}
+
+.show-description ul li {
+  margin-bottom: 0.7rem;
+  position: relative;
+}
+
+.show-description ul li::before {
+  content: "";
+  width: 0.8rem;
+  height: 0.8rem;
+  background-color: #fedb01;
+  border-radius: 50%;
+  position: absolute;
+  left: -2rem;
+  top: 0.8rem;
+}
+
+.show-description .btn {
+  margin-left: 0rem;
+}
