@@ -1,0 +1,142 @@
+[
+    {
+        "_id": "9a9d4821-ea1d-47c8-abed-b0653413650c",
+        "colId": "history",
+        "containerId": "",
+        "name": "https://api.edamam.com/api/recipes/v2?type=public&app_id=d2de9750&app_key=63a48d6d46ca9e51668a340268525d6c ",
+        "url": "https://api.edamam.com/api/recipes/v2?type=public&app_id=d2de9750&app_key=63a48d6d46ca9e51668a340268525d6c ",
+        "method": "GET",
+        "sortNum": 0,
+        "created": "2023-07-26T14:59:40.976Z",
+        "modified": "2023-07-26T14:59:40.976Z",
+        "headers": [],
+        "params": [
+            {
+                "name": "type",
+                "value": "public",
+                "isPath": false
+            },
+            {
+                "name": "app_id",
+                "value": "d2de9750",
+                "isPath": false
+            },
+            {
+                "name": "app_key",
+                "value": "63a48d6d46ca9e51668a340268525d6c ",
+                "isPath": false
+            }
+        ],
+        "tests": []
+    },
+    {
+        "_id": "52dd4101-975b-4645-a56d-63d273149945",
+        "colId": "history",
+        "containerId": "",
+        "name": "https://api.edamam.com/api/recipes/v2?type=public&app_id=d2de9750&app_key=63a48d6d46ca9e51668a340268525d6c &q=biryani",
+        "url": "https://api.edamam.com/api/recipes/v2?type=public&app_id=d2de9750&app_key=63a48d6d46ca9e51668a340268525d6c &q=biryani",
+        "method": "GET",
+        "sortNum": 0,
+        "created": "2023-07-26T15:00:37.289Z",
+        "modified": "2023-07-26T15:00:37.289Z",
+        "headers": [],
+        "params": [
+            {
+                "name": "type",
+                "value": "public",
+                "isPath": false
+            },
+            {
+                "name": "app_id",
+                "value": "d2de9750",
+                "isPath": false
+            },
+            {
+                "name": "app_key",
+                "value": "63a48d6d46ca9e51668a340268525d6c ",
+                "isPath": false
+            },
+            {
+                "name": "q",
+                "value": "biryani",
+                "isPath": false
+            }
+        ],
+        "tests": []
+    },
+    {
+        "_id": "dada9f6f-0994-400c-a3dc-10b58ad038b7",
+        "colId": "history",
+        "containerId": "",
+        "name": "https://api.edamam.com/api/recipes/v2?type=public&app_id=d2de9750&app_key=63a48d6d46ca9e51668a340268525d6c&q=biryani",
+        "url": "https://api.edamam.com/api/recipes/v2?type=public&app_id=d2de9750&app_key=63a48d6d46ca9e51668a340268525d6c&q=biryani",
+        "method": "GET",
+        "sortNum": 0,
+        "created": "2023-07-26T15:03:18.393Z",
+        "modified": "2023-07-26T15:03:18.393Z",
+        "headers": [],
+        "params": [
+            {
+                "name": "type",
+                "value": "public",
+                "isPath": false
+            },
+            {
+                "name": "app_id",
+                "value": "d2de9750",
+                "isPath": false
+            },
+            {
+                "name": "app_key",
+                "value": "63a48d6d46ca9e51668a340268525d6c",
+                "isPath": false
+            },
+            {
+                "name": "q",
+                "value": "biryani",
+                "isPath": false
+            }
+        ],
+        "tests": []
+    },
+    {
+        "_id": "1a5eb038-e932-4ff1-bb40-d87b5fa635a1",
+        "colId": "history",
+        "containerId": "",
+        "name": "https://api.edamam.com/api/recipes/v2?type=public&app_id=d2de9750&app_key=63a48d6d46ca9e51668a340268525d6c&q=biryani&from=21",
+        "url": "https://api.edamam.com/api/recipes/v2?type=public&app_id=d2de9750&app_key=63a48d6d46ca9e51668a340268525d6c&q=biryani&from=21",
+        "method": "GET",
+        "sortNum": 0,
+        "created": "2023-07-26T15:03:29.937Z",
+        "modified": "2023-07-26T15:03:29.937Z",
+        "headers": [],
+        "params": [
+            {
+                "name": "type",
+                "value": "public",
+                "isPath": false
+            },
+            {
+                "name": "app_id",
+                "value": "d2de9750",
+                "isPath": false
+            },
+            {
+                "name": "app_key",
+                "value": "63a48d6d46ca9e51668a340268525d6c",
+                "isPath": false
+            },
+            {
+                "name": "q",
+                "value": "biryani",
+                "isPath": false
+            },
+            {
+                "name": "from",
+                "value": "21",
+                "isPath": false
+            }
+        ],
+        "tests": []
+    }
+]
