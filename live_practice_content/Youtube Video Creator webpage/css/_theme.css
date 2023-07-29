@@ -16,6 +16,11 @@
   /* transition: all 0.3s ease-in-out; */
 }
 
+.btn.btn-md {
+  padding: 1.6rem 2.5rem;
+  height: 5.4rem;
+}
+
 .btn:hover {
   background: #e2e3e9;
   color: #14142b;
