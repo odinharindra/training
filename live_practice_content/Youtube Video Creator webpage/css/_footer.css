@@ -1,0 +1,22 @@
+#footer-sub-sction-1 {
+  display: grid;
+  align-items: center;
+  justify-content: space-between;
+  grid-template-columns: 6.5fr 5.5fr;
+}
+
+#footer-sub-sction-1 .footer-branding {
+  display: grid;
+  grid-template-columns: 48px auto;
+  gap: 3rem;
+  align-items: center;
+}
+
+#footer-sub-sction-1 .footer-branding .brand-logo img {
+  width: 48px;
+  height: 48px;
+}
+
+#footer-sub-sction-1 .footer-branding .brand-title {
+  font-size: 3.8rem;
+}
