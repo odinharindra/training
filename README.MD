@@ -10,11 +10,15 @@ This Git repository is a comprehensive hub for web development training resource
 
 ### HTML and CSS
 
+&ensp;
+
 #### Simple HTML Web page with CSS
 
 [Demo](https://simple-html-css-page.surge.sh/) | [Source code](./practice_projects/html_css/000_simple_html_page/)
 
 ![Simple HTML Web page with CSS](./practice_projects/html_css/000_simple_html_page/preview.png)
+
+&ensp;
 
 #### Tribute To Sir Dr. APJ Abdul Kalam
 
@@ -22,11 +26,15 @@ This Git repository is a comprehensive hub for web development training resource
 
 ![Simple HTML Web page with CSS](./practice_projects/html_css//001_tribute-page-to-kalam/preview.png)
 
+&ensp;
+
 #### Simple Student Survey Form
 
 [Demo](https://student-survey-form.surge.sh/) | [Source code](./practice_projects/html_css/002_student_survey_form/)
 
 ![Simple HTML Web page with CSS](./practice_projects/html_css/002_student_survey_form/preview.png)
+
+&ensp;
 
 #### Simple Parallax effect website
 
@@ -34,11 +42,15 @@ This Git repository is a comprehensive hub for web development training resource
 
 ![Simple HTML Web page with CSS](./practice_projects/html_css/003_parallax_website/preview.png)
 
+&ensp;
+
 #### Simple Images Gallery
 
 [Demo](https://odin-images-gallery.surge.sh) | [Source code](./practice_projects/html_css/004_images_gallery/)
 
 ![Simple HTML Web page with CSS](./practice_projects/html_css/004_images_gallery/preview.png)
+
+&ensp;
 
 #### CSS Float effect practice
 
