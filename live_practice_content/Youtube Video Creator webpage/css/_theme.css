@@ -2,6 +2,11 @@
   background-color: #eff0f6;
 }
 
+.dark-bg {
+  background-color: #14142b;
+  color: white;
+}
+
 .btn {
   display: inline-flex;
   padding: 2rem 4rem;
