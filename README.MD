@@ -10,22 +10,38 @@ This Git repository is a comprehensive hub for web development training resource
 
 ### HTML and CSS
 
-#### [Simple HTML Web page with CSS](./practice_projects/html_css/000_simple_html_page/)
+#### Simple HTML Web page with CSS
+
+[Demo](https://simple-html-css-page.surge.sh/) | [Source code](./practice_projects/html_css/000_simple_html_page/)
 
 ![Simple HTML Web page with CSS](./practice_projects/html_css/000_simple_html_page/preview.png)
 
-#### [Tribute To Sir Dr. APJ Abdul Kalam](./practice_projects/html_css/001_tribute-page-to-kalam/)
+#### Tribute To Sir Dr. APJ Abdul Kalam
+
+[Demo](https://tribute-page-to-kalam.surge.sh/) | [Source code](./practice_projects/html_css/001_tribute-page-to-kalam/)
 
 ![Simple HTML Web page with CSS](./practice_projects/html_css//001_tribute-page-to-kalam/preview.png)
 
-#### [Simple Student Survey Form](./practice_projects/html_css/002_student_survey_form/)
+#### Simple Student Survey Form
+
+[Demo](https://student-survey-form.surge.sh/) | [Source code](./practice_projects/html_css/002_student_survey_form/)
 
 ![Simple HTML Web page with CSS](./practice_projects/html_css/002_student_survey_form/preview.png)
 
-#### [Simple Parallax effect website](./practice_projects/html_css/003_parallax_website/)
+#### Simple Parallax effect website
+
+[Demo](https://parallax-website.surge.sh) | [Source code](./practice_projects/html_css/003_parallax_website/)
 
 ![Simple HTML Web page with CSS](./practice_projects/html_css/003_parallax_website/preview.png)
 
-#### [CSS Float effect practice](./practice_projects/html_css/005_playing_with_css_float/)
+#### Simple Images Gallery
+
+[Demo](https://odin-images-gallery.surge.sh) | [Source code](./practice_projects/html_css/004_images_gallery/)
+
+![Simple HTML Web page with CSS](./practice_projects/html_css/004_images_gallery/preview.png)
+
+#### CSS Float effect practice
+
+[Demo](https://playing_with_css_float.surge.sh) | [Source code](./practice_projects/html_css/005_playing_with_css_float/)
 
 ![Simple HTML Web page with CSS](./practice_projects/html_css/005_playing_with_css_float/preview.png)

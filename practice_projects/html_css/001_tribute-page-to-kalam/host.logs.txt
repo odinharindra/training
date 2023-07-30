@@ -1,0 +1,10 @@
+Running as harindraodinschool@gmail.com (Student)
+
+    project: /Users/harindramasna/Documents/Odinschool/odin_trainings/training/practice_projects/html_css/001_tribute-page-to-kalam/
+      domain: tribute-page-to-kalam.surge.sh
+      upload: [====================] 100% eta: 0.0s (5 files, 3538616 bytes)
+        CDN: [====================] 100%
+  encryption: *.surge.sh, surge.sh (293 days)
+          IP: 138.197.235.123
+
+Success! - Published to tribute-page-to-kalam.surge.sh

@@ -1,0 +1,10 @@
+Running as harindraodinschool@gmail.com (Student)
+
+    project: /Users/harindramasna/Documents/Odinschool/odin_trainings/training/practice_projects/html_css/000_simple_html_page/
+      domain: simple-html-css-page.surge.sh
+      upload: [====================] 100% eta: 0.0s (2 files, 2506044 bytes)
+        CDN: [====================] 100%
+  encryption: *.surge.sh, surge.sh (293 days)
+          IP: 138.197.235.123
+
+Success! - Published to simple-html-css-page.surge.sh

@@ -1,0 +1,10 @@
+Running as harindraodinschool@gmail.com (Student)
+
+    project: /Users/harindramasna/Documents/Odinschool/odin_trainings/training/practice_projects/html_css/002_student_survey_form/ 
+      domain: student-survey-form.surge.sh
+      upload: [====================] 100% eta: 0.0s (3 files, 1902700 bytes)
+        CDN: [====================] 100%
+  encryption: *.surge.sh, surge.sh (293 days)
+          IP: 138.197.235.123
+
+Success! - Published to student-survey-form.surge.sh
