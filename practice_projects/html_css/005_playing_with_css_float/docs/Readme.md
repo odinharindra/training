@@ -20,4 +20,4 @@ Experiment with the float property and its behavior by modifying the styles and 
 
 [Source Code](../)
 
-![Preview](./preview.png)
+![Preview](../preview.png)
