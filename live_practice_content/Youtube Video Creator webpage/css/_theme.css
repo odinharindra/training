@@ -8,7 +8,7 @@
   border-radius: 5rem;
   font-size: 1.8rem;
   text-transform: capitalize;
-  height: 70px;
+  height: 7rem;
   text-decoration: none;
   background: transparent;
   border: 1px solid #e2e3e9;
@@ -23,6 +23,11 @@
 .btn.btn-md {
   padding: 1.6rem 2.5rem;
   height: 5.4rem;
+}
+
+.btn.btn-lg {
+  padding: 2rem 4rem;
+  height: 7rem;
 }
 
 .btn:hover {

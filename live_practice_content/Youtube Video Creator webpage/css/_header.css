@@ -12,16 +12,6 @@ nav {
   box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.1);
 }
 
-/* Avoiding common <a> styles to <a> elements which are having .btn class */
-nav a:not(.btn) {
-  color: rgb(35, 35, 35);
-  text-decoration: none;
-}
-
-nav a:not(.btn):hover {
-  color: #3f69ff !important;
-}
-
 .branding a {
   display: flex;
   justify-content: flex-start;
