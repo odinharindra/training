@@ -20,3 +20,15 @@
 #footer-sub-sction-1 .footer-branding .brand-title {
   font-size: 3.8rem;
 }
+
+#footer-sub-sction-3 {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  border-top: 1px solid #c2c2c2;
+  font-size: 1.8rem;
+}
+
+#footer-sub-sction-3 a {
+  font-weight: bold;
+  text-decoration: underline;
+}
