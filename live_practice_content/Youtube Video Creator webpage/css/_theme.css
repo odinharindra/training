@@ -63,3 +63,38 @@ ul {
   color: #14142b;
   font-size: 1.8rem;
 }
+
+.chip {
+  display: inline-flex;
+  padding: 2rem 4rem;
+  border-radius: 5rem;
+  font-size: 1.8rem;
+  text-transform: capitalize;
+  height: 7rem;
+  text-decoration: none;
+  background: transparent;
+  border: 1px solid #e2e3e9;
+  color: #14142b;
+  margin: 0rem 1rem;
+  line-height: 0.5;
+  align-items: center;
+  justify-content: center;
+  font-weight: 400;
+}
+
+.chip.chip-md {
+  padding: 1.6rem 2.5rem;
+  height: 5.4rem;
+}
+
+.chip.chip-lg {
+  padding: 2rem 4rem;
+  height: 7rem;
+}
+
+.chip.chip-secondary {
+  background-color: #eff0f6;
+  border-color: #eff0f6;
+}
+
+/* border-color: #8c8c95; */
