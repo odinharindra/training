@@ -1,6 +1,6 @@
 # Odinschool
 
-[![Odinschool](./Odinschool_v3_logo.svg)](https://www.odinschool.com/)
+[![Odinschool](https://www.odinschool.com/hubfs/OdinSchool_V3/icons/Odinschool_v3_logo.svg)](https://www.odinschool.com/)
 
 Odinschool is a leading provider of exceptional web development trainings, delivering top-notch services to aspiring developers. With their expert instructors and hands-on approach, they empower students to acquire essential web development skills and stay at the forefront of this rapidly evolving field. Whether you're a beginner or looking to advance your knowledge, Odinschool ensures a rewarding learning experience, equipping individuals with the tools they need to excel in the world of web development.
 
@@ -16,7 +16,7 @@ This Git repository is a comprehensive hub for web development training resource
 
 [Demo](https://simple-html-css-page.surge.sh/) | [Source code](./practice_projects/html_css/000_simple_html_page/)
 
-![Simple HTML Web page with CSS](./practice_projects/html_css/000_simple_html_page/preview.png)
+![Simple HTML Web page with CSS](https://simple-html-css-page.surge.sh/preview.png)
 
 &ensp;
 
@@ -24,7 +24,7 @@ This Git repository is a comprehensive hub for web development training resource
 
 [Demo](https://tribute-page-to-kalam.surge.sh/) | [Source code](./practice_projects/html_css/001_tribute-page-to-kalam/)
 
-![Simple HTML Web page with CSS](./practice_projects/html_css//001_tribute-page-to-kalam/preview.png)
+![Simple HTML Web page with CSS](https://tribute-page-to-kalam.surge.sh/preview.png)
 
 &ensp;
 
@@ -32,7 +32,7 @@ This Git repository is a comprehensive hub for web development training resource
 
 [Demo](https://student-survey-form.surge.sh/) | [Source code](./practice_projects/html_css/002_student_survey_form/)
 
-![Simple HTML Web page with CSS](./practice_projects/html_css/002_student_survey_form/preview.png)
+![Simple HTML Web page with CSS](https://student-survey-form.surge.sh/preview.png)
 
 &ensp;
 
@@ -40,7 +40,9 @@ This Git repository is a comprehensive hub for web development training resource
 
 [Demo](https://parallax-website.surge.sh) | [Source code](./practice_projects/html_css/003_parallax_website/)
 
-![Simple HTML Web page with CSS](./practice_projects/html_css/003_parallax_website/preview.png)
+![Simple HTML Web page with CSS](https://parallax-website.surge.sh/preview.png)
+
+<!-- parallax-website.surge.sh -->
 
 &ensp;
 
@@ -48,7 +50,7 @@ This Git repository is a comprehensive hub for web development training resource
 
 [Demo](https://odin-images-gallery.surge.sh) | [Source code](./practice_projects/html_css/004_images_gallery/)
 
-![Simple HTML Web page with CSS](./practice_projects/html_css/004_images_gallery/preview.png)
+![Simple HTML Web page with CSS](https://odin-images-gallery.surge.sh/preview.png)
 
 &ensp;
 
@@ -56,4 +58,4 @@ This Git repository is a comprehensive hub for web development training resource
 
 [Demo](https://playing_with_css_float.surge.sh) | [Source code](./practice_projects/html_css/005_playing_with_css_float/)
 
-![Simple HTML Web page with CSS](./practice_projects/html_css/005_playing_with_css_float/preview.png)
+![Simple HTML Web page with CSS](https://playing_with_css_float.surge.sh/preview.png)
