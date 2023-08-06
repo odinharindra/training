@@ -10,7 +10,7 @@
   align-items: center;
 }
 
-.platform-heading {
+#video-platforms .platform-heading {
   font-size: 1.8rem !important;
   color: #5f5d68;
 }
