@@ -1,0 +1,36 @@
+#partners .container {
+  grid-template-columns: 200px 1fr;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#partners .platform-heading {
+  font-size: 2.2rem !important;
+  color: #ffffff;
+}
+
+#partners .platform-logos {
+  grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
+  justify-content: space-between;
+  align-items: center;
+}
+
+#partners .platform-logos span {
+  display: flex;
+  border: 1px solid white;
+  height: 7rem;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4rem;
+}
+
+#partners .platform-logos span img {
+  width: auto !important;
+  height: 4.8rem;
+}
+
+#partners .platform-logos span:hover {
+  border-color: #fedb01;
+  margin-top: -0.5rem;
+  transition: all 0.5s ease-in-out;
+}

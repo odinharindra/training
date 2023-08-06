@@ -1,0 +1,53 @@
+#about-the-host .container {
+  grid-template-columns: repeat(2, 1fr);
+  align-items: center;
+  gap: 5rem;
+}
+
+.host-about,
+.host-details {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2.5rem;
+}
+
+#about-the-host p {
+  color: #5f5d68;
+}
+
+/* #5f5d68 */
+
+.about-the-host-cta a.btn {
+  margin-left: 0rem;
+}
+
+.host-details {
+  background-color: white;
+  padding: 6.2rem 5.6rem;
+  border-radius: 2.4rem;
+  box-shadow: 0 0.8rem 1.6rem rgba(0, 0, 0, 0.15);
+}
+
+.host-details img {
+  max-width: 18.6rem;
+  height: auto;
+  border-radius: 50%;
+  margin-bottom: 2rem;
+}
+
+.host-details .social-links {
+  list-style: none;
+  padding: 0rem;
+  margin: 0rem;
+}
+
+.host-details .social-links li {
+  display: inline-block;
+}
+
+.social-links span.brand-icon {
+  width: 3.2rem;
+  height: 3.2rem;
+  font-size: 80%;
+  margin: 0;
+}

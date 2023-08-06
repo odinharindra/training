@@ -1,0 +1,86 @@
+#testimony {
+  grid-template-columns: 1fr;
+}
+
+.testimony-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  column-gap: 3rem;
+}
+
+.testimony-header div._description {
+  width: 45%;
+}
+
+.testimony-header div._description p {
+  color: black;
+}
+
+.testimony-carousel {
+  display: flex;
+  align-items: stretch;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+  column-gap: 2.5rem;
+  margin-top: 3rem;
+  margin-bottom: 5rem;
+}
+
+.testimony-card {
+  display: inline-flex;
+  border: 1px solid lightgrey;
+  min-width: 40%;
+  column-gap: 3rem;
+  padding: 5rem 3rem !important;
+  align-items: center;
+  justify-content: flex-start;
+  border-radius: 2.4rem;
+  box-shadow: 0 5px 12px 0 rgba(20, 20, 43, 0.05) !important;
+}
+
+.testimony-card ._dp {
+  min-width: 12.8rem;
+  border-radius: 1.6rem;
+  overflow: hidden;
+}
+
+.testimony-card ._details {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  justify-content: space-between;
+  row-gap: 1.6rem;
+}
+
+.testimony-card ._rating {
+  font-size: 2.4rem;
+  color: rgb(255, 107, 0);
+}
+
+.testimony-card ._feedback {
+  color: black;
+}
+.testimonies-container {
+  position: relative;
+}
+
+.carousel-floating-button {
+  position: absolute;
+  right: 0%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.carousel-floating-button button {
+  width: 6.4rem;
+  height: 6.4rem;
+  border-radius: 50%;
+  border: 0rem;
+  outline: none;
+  background-color: #14142b;
+  color: #ffffff;
+  font-size: 2.5rem;
+  cursor: pointer;
+}

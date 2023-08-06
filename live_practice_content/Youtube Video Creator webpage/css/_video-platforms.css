@@ -1,0 +1,26 @@
+#video-platforms {
+  grid-template-columns: 200px 1fr;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#video-platforms .platform-logos {
+  grid-template-columns: repeat(auto-fit, minmax(auto, 200px));
+  justify-content: space-between;
+  align-items: center;
+}
+
+#video-platforms .platform-heading {
+  font-size: 1.8rem !important;
+  color: #5f5d68;
+}
+
+/* Small screen */
+@media screen and (max-width: 759.98px) {
+  #video-platforms {
+    grid-template-columns: 130px 1fr;
+  }
+  #video-platforms .platform-heading {
+    font-size: 1.5rem !important;
+  }
+}

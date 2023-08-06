@@ -1,0 +1,10 @@
+Running as harindraodinschool@gmail.com (Student)
+
+    project: /Users/harindramasna/Documents/Odinschool/odin_trainings/training/practice_projects/html_css/004_images_gallery/
+      domain: odin-images-gallery.surge.sh
+      upload: [====================] 100% eta: 0.0s (9 files, 4631173 bytes)
+        CDN: [====================] 100%
+  encryption: *.surge.sh, surge.sh (293 days)
+          IP: 138.197.235.123
+
+Success! - Published to odin-images-gallery.surge.sh

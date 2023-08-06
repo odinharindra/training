@@ -1,0 +1,21 @@
+#recent-videos ._teasers {
+  grid-template-columns: repeat(3, 1fr);
+  gap: 3.2rem;
+  margin-top: 5.6rem;
+  margin-bottom: 5.6rem;
+}
+
+#recent-videos ._teasers ._thumb-nail {
+  aspect-ratio: 0.9;
+  background-image: url("../images/recent_01.jpeg");
+  background-position: center center;
+  background-size: cover;
+}
+
+#recent-videos ._teasers .teaser-card:nth-child(2) ._thumb-nail {
+  background-image: url("../images/recent_02.jpeg");
+}
+
+#recent-videos ._teasers .teaser-card:nth-child(3) ._thumb-nail {
+  background-image: url("../images/recent_03.jpeg");
+}

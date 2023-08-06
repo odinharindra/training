@@ -35,8 +35,54 @@ Where you can get all the resources added in specific organized folders.
 
 ## Practice projects
 
-### [HTML and CSS](https://github.com/odinharindra/training/tree/odinschool/practice_projects/html_css)
+### HTML and CSS
 
-[Simple HTML Web page with CSS](https://github.com/odinharindra/training/blob/odinschool/practice_projects/html_css/000_simple_html_page)
+&ensp;
 
-![Simple HTML Web page with CSS](https://github.com/odinharindra/training/raw/odinschool/practice_projects/html_css/000_simple_html_page/preview.png)
+#### Simple HTML Web page with CSS
+
+[Demo](https://simple-html-css-page.surge.sh/) | [Source code](./practice_projects/html_css/000_simple_html_page/)
+
+![Simple HTML Web page with CSS](https://simple-html-css-page.surge.sh/preview.png)
+
+&ensp;
+
+#### Tribute To Sir Dr. APJ Abdul Kalam
+
+[Demo](https://tribute-page-to-kalam.surge.sh/) | [Source code](./practice_projects/html_css/001_tribute-page-to-kalam/)
+
+![Simple HTML Web page with CSS](https://tribute-page-to-kalam.surge.sh/preview.png)
+
+&ensp;
+
+#### Simple Student Survey Form
+
+[Demo](https://student-survey-form.surge.sh/) | [Source code](./practice_projects/html_css/002_student_survey_form/)
+
+![Simple HTML Web page with CSS](https://student-survey-form.surge.sh/preview.png)
+
+&ensp;
+
+#### Simple Parallax effect website
+
+[Demo](https://parallax-website.surge.sh) | [Source code](./practice_projects/html_css/003_parallax_website/)
+
+![Simple HTML Web page with CSS](https://parallax-website.surge.sh/preview.png)
+
+<!-- parallax-website.surge.sh -->
+
+&ensp;
+
+#### Simple Images Gallery
+
+[Demo](https://odin-images-gallery.surge.sh) | [Source code](./practice_projects/html_css/004_images_gallery/)
+
+![Simple HTML Web page with CSS](https://odin-images-gallery.surge.sh/preview.png)
+
+&ensp;
+
+#### CSS Float effect practice
+
+[Demo](https://playing_with_css_float.surge.sh) | [Source code](./practice_projects/html_css/005_playing_with_css_float/)
+
+![Simple HTML Web page with CSS](https://playing_with_css_float.surge.sh/preview.png)

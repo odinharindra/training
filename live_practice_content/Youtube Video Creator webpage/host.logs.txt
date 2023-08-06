@@ -1,0 +1,10 @@
+Running as harindraodinschool@gmail.com (Student)
+
+    project: /Users/harindramasna/Documents/Odinschool/odin_trainings/training/live_practice_content/Youtube Video Creator webpage/
+      domain: youtube-video-creator-demo.surge.sh
+      upload: [====================] 100% eta: 0.0s (30 files, 277320 bytes)
+        CDN: [====================] 100%
+  encryption: *.surge.sh, surge.sh (287 days)
+          IP: 138.197.235.123
+
+Success! - Published to youtube-video-creator-demo.surge.sh
