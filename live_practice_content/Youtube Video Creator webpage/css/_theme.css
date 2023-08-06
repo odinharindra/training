@@ -98,3 +98,12 @@ ul {
 }
 
 /* border-color: #8c8c95; */
+
+/* Small screen */
+@media screen and (max-width: 759.98px) {
+  .btn {
+    padding: 1.5rem 3rem;
+    font-size: 1.5rem;
+    height: 5rem;
+  }
+}

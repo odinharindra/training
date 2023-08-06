@@ -43,13 +43,19 @@ section {
   display: block;
   width: 100%;
   padding: 0rem 1.5rem;
-  max-width: 1220px;
+  max-width: 1220px !important;
   margin: 0rem auto;
 }
 
 section.major {
   padding-top: 7.5rem;
   padding-bottom: 7.5rem;
+  overflow-x: hidden;
+  max-width: 100vw;
+}
+
+.d-none {
+  display: none;
 }
 
 .d-grid {
@@ -94,4 +100,26 @@ a:not(.btn):hover {
 
 .text-center {
   text-align: center;
+}
+
+/* Ipad landscape and Large screen */
+@media screen and (min-width: 1200px) {
+}
+
+/* Ipad Portrait or medium screen */
+@media screen and (min-width: 768px) and (max-width: 1200px) {
+  html {
+    font-size: 8px;
+  }
+
+  .container {
+    max-width: 760px !important;
+  }
+}
+
+/* Small screen */
+@media screen and (max-width: 414px) {
+  .container {
+    max-width: 360px !important;
+  }
 }

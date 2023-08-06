@@ -42,3 +42,38 @@ nav {
   display: inline-block;
   font-size: 1.8rem;
 }
+
+.hamberger-menu {
+  font-size: 2.5rem;
+}
+
+/* Ipad landscape and Large screen */
+@media screen and (min-width: 1200px) {
+  .hamberger-menu {
+    display: none;
+  }
+}
+
+/* Ipad Portrait or medium screen */
+@media screen and (min-width: 768px) and (max-width: 1200px) {
+  .menu-links,
+  .call-to-actions {
+    display: none !important;
+  }
+
+  .hamberger-menu {
+    display: inline-block;
+  }
+}
+
+/* Ipad Portrait or medium screen */
+@media screen and (max-width: 759.98px) {
+  .menu-links,
+  .call-to-actions {
+    display: none !important;
+  }
+
+  .hamberger-menu {
+    display: inline-block;
+  }
+}

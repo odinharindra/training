@@ -41,3 +41,16 @@ h1.hero-title {
 .hero-cta-buttons {
   margin-left: -1rem;
 }
+
+/* Small screen */
+@media screen and (max-width: 759.98px) {
+  #hero-section.container {
+    grid-template-columns: 1fr !important;
+  }
+
+  h1.hero-title {
+    font-size: 5rem;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+  }
+}
