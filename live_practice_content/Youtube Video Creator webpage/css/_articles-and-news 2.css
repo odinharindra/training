@@ -1,0 +1,23 @@
+#articles-and-news .container {
+  grid-template-columns: 1fr;
+}
+
+#articles-and-news ._teasers {
+  grid-template-columns: 1fr 1fr;
+  gap: 3.5rem;
+}
+
+#articles-and-news .teaser-card:nth-child(1) ._thumb-nail {
+  background-image: url("../images/recent_02.jpeg");
+}
+
+#articles-and-news .teaser-card:nth-child(2) ._thumb-nail {
+  background-image: url("../images/recent_03.jpeg");
+}
+
+#articles-and-news .articles-and-news-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}

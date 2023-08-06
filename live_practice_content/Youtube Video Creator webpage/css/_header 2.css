@@ -1,0 +1,79 @@
+#header {
+  display: block;
+  position: relative;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0rem 4.2rem;
+  height: 10.9rem;
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.1);
+}
+
+.branding a {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  column-gap: 3rem;
+}
+
+.branding a img {
+  width: 48px;
+  height: 48px;
+}
+
+.branding a .brand-title {
+  font-size: 2.4rem;
+  line-height: 1;
+  font-weight: 700;
+}
+
+.menu-links ul {
+  list-style: none;
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  column-gap: 3rem;
+}
+
+.menu-links ul li {
+  display: inline-block;
+  font-size: 1.8rem;
+}
+
+.hamberger-menu {
+  font-size: 2.5rem;
+}
+
+/* Ipad landscape and Large screen */
+@media screen and (min-width: 1200px) {
+  .hamberger-menu {
+    display: none;
+  }
+}
+
+/* Ipad Portrait or medium screen */
+@media screen and (min-width: 768px) and (max-width: 1200px) {
+  .menu-links,
+  .call-to-actions {
+    display: none !important;
+  }
+
+  .hamberger-menu {
+    display: inline-block;
+  }
+}
+
+/* Ipad Portrait or medium screen */
+@media screen and (max-width: 759.98px) {
+  .menu-links,
+  .call-to-actions {
+    display: none !important;
+  }
+
+  .hamberger-menu {
+    display: inline-block;
+  }
+}
