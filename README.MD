@@ -91,6 +91,8 @@ Where you can get all the resources added in specific organized folders.
 
 #### CSS only Carousel
 
+[Demo](https://css-only-carousel.surge.sh/) | [Source code](./practice_projects/html_css/006_basic_image_carousel_using_just_HTML_and_CSS/)
+
 In this example, we create a simple image carousel using HTML and CSS. You can play around with anchor tags to make carousel effect. this is a good start to understand how a carousel actually works.
 
 Please note that this is a basic example, and professional image carousel libraries provide more advanced features and optimizations. If you're looking for a production-ready image carousel, consider using popular JavaScript libraries like Slick, Owl Carousel, or Flickity.
@@ -101,7 +103,5 @@ Setting some boxes in a horizontal row with CSS Flexbox is easy.
 Showing only one box at a time with overflow and making it swipable with overscroll-behavior is easy.
 You can make the “slides” line up nicely with scroll-snap-type.
 A couple of #jump-links is all you need to make navigation for it, which you can make all nice and smooth with scroll-behavior.
-
-[Demo](https://css-only-carousel.surge.sh/) | [Source code](./practice_projects/html_css/006_basic_image_carousel_using_just_HTML_and_CSS/)
 
 ![Simple HTML Web page with CSS](https://css-only-carousel.surge.sh/preview.png)
