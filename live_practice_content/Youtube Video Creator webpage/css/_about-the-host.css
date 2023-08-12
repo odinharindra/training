@@ -51,3 +51,25 @@
   font-size: 80%;
   margin: 0;
 }
+
+/* Small screen */
+@media screen and (max-width: 414px) {
+  #about-the-host .container {
+    grid-template-columns: 1fr;
+  }
+
+  .about-the-host-cta {
+    display: flex;
+    flex-direction: column;
+    row-gap: 2rem;
+  }
+
+  .host-details {
+    padding: 4rem 3.6rem;
+    text-align: center;
+  }
+
+  .host-details img {
+    margin: 0 auto 2rem;
+  }
+}

@@ -19,3 +19,10 @@
 #recent-videos ._teasers .teaser-card:nth-child(3) ._thumb-nail {
   background-image: url("../images/recent_03.jpeg");
 }
+
+/* Small screen */
+@media screen and (max-width: 414px) {
+  #recent-videos ._teasers {
+    grid-template-columns: 1fr;
+  }
+}
