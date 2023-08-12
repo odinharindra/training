@@ -34,6 +34,46 @@ git checkout odinschool
 
 &ensp;
 
+## Daily HTML and Front-end Challenges
+
+Enhance your front-end skills and creativity with these platforms that offer daily HTML and front-end challenges.
+
+## [Frontend Mentor](https://www.frontendmentor.io/)
+
+Offers real-world projects with design files for you to code and practice your HTML, CSS, and JavaScript skills.
+
+## [100 Days CSS Challenge](https://100dayscss.com/)
+
+A challenge where you create a new CSS snippet every day for 100 days.
+
+## [Daily UI](https://www.dailyui.co/)
+
+Provides daily design challenges, including HTML and CSS implementations, to improve your UI skills.
+
+## [30 Days of CSS](https://30dayscsschallenge.com/)
+
+A challenge that provides a new CSS task every day for 30 days.
+
+## [CSS Battle](https://cssbattle.dev/)
+
+A fun platform where you code to recreate a given visual design using CSS.
+
+## [CodePen Challenges](https://codepen.io/challenges/)
+
+Offers various challenges on CodePen that you can participate in to improve your front-end skills.
+
+## [CSS Grid Garden](https://cssgridgarden.com/)
+
+An interactive game that teaches you CSS Grid layout through challenges.
+
+## [Flexbox Froggy](https://flexboxfroggy.com/)
+
+An interactive game to learn and practice Flexbox layout.
+
+Remember, consistent practice is key to improving your skills. These resources offer bite-sized challenges that can help you build your confidence and expertise in HTML and front-end development.
+
+&ensp;
+
 ## Documentation and References
 
 - [MDN Web Docs](https://developer.mozilla.org/): Comprehensive documentation for web technologies.
