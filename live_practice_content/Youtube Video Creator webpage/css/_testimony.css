@@ -84,3 +84,30 @@
   font-size: 2.5rem;
   cursor: pointer;
 }
+
+/* Ipad Portrait or medium screen */
+@media screen and (min-width: 768px) and (max-width: 1200px) {
+  .testimony-card {
+    min-width: 60%;
+  }
+}
+
+/* Small screen */
+@media screen and (max-width: 414px) {
+  .testimony-header {
+    display: flex;
+    flex-direction: column;
+    row-gap: 3rem;
+  }
+
+  .testimony-header div._description {
+    width: 100%;
+  }
+
+  .testimony-card {
+    min-width: 90%;
+    flex-direction: column;
+    row-gap: 3rem;
+    padding: 2rem !important;
+  }
+}

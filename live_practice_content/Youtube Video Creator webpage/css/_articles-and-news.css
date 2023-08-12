@@ -21,3 +21,21 @@
   justify-content: space-between;
   margin-bottom: 2rem;
 }
+
+/* Small screen */
+@media screen and (max-width: 414px) {
+  #articles-and-news .articles-and-news-header {
+    flex-direction: column;
+    row-gap: 3rem;
+    margin-bottom: 4rem;
+  }
+
+  #articles-and-news ._teasers {
+    grid-template-columns: 1fr;
+    gap: 3.5rem;
+  }
+
+  .teaser-card {
+    border-radius: 2.4rem !important;
+  }
+}

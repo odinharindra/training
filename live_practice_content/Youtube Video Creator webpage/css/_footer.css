@@ -114,3 +114,33 @@ span.brand-icon.pinterest {
 span.brand-icon.email {
   background-color: #134785;
 }
+
+/* Small screen */
+@media screen and (max-width: 414px) {
+  #footer-sub-sction-1 {
+    grid-template-columns: 1fr;
+    row-gap: 4rem;
+  }
+
+  #footer-sub-sction-2.container {
+    gap: 4rem;
+    grid-template-columns: unset;
+    grid-template-areas:
+      "f-about f-about"
+      "f-partners f-services"
+      "f-latest-videos f-latest-videos";
+  }
+
+  #footer-sub-sction-2.container div:nth-child(1) {
+    grid-area: f-about;
+  }
+  #footer-sub-sction-2.container div:nth-child(2) {
+    grid-area: f-partners;
+  }
+  #footer-sub-sction-2.container div:nth-child(3) {
+    grid-area: f-services;
+  }
+  #footer-sub-sction-2.container div:nth-child(4) {
+    grid-area: f-latest-videos;
+  }
+}

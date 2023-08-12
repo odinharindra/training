@@ -64,3 +64,29 @@ section#about-the-show .floating-images img:last-child {
 .show-description .btn {
   margin-left: 0rem;
 }
+
+/* Small screen */
+@media screen and (max-width: 414px) {
+  section#about-the-show {
+    grid-template-columns: 1fr;
+  }
+
+  section#about-the-show .floating-images {
+    width: 30rem;
+    height: 28rem;
+  }
+
+  section#about-the-show .floating-images img {
+    position: absolute;
+    width: 25rem;
+  }
+
+  section#about-the-show .floating-images img:first-child {
+    left: -2.6rem;
+    top: -2rem;
+  }
+  section#about-the-show .floating-images img:last-child {
+    right: -2.6rem;
+    bottom: -2rem;
+  }
+}

@@ -34,3 +34,18 @@
   margin-top: -0.5rem;
   transition: all 0.5s ease-in-out;
 }
+
+/* Small screen */
+@media screen and (max-width: 414px) {
+  #partners .container {
+    grid-template-columns: 1fr;
+    align-items: stretch;
+    justify-content: space-between;
+    text-align: center;
+    row-gap: 6rem;
+  }
+
+  #partners .platform-logos {
+    justify-content: center;
+  }
+}
