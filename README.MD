@@ -87,6 +87,8 @@ Where you can get all the resources added in specific organized folders.
 
 ![Simple HTML Web page with CSS](https://playing_with_css_float.surge.sh/preview.png)
 
+&ensp;
+
 #### CSS only Carousel
 
 In this example, we create a simple image carousel using HTML and CSS. You can play around with anchor tags to make carousel effect. this is a good start to understand how a carousel actually works.
