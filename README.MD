@@ -50,7 +50,7 @@ A challenge where you create a new CSS snippet every day for 100 days.
 
 Provides daily design challenges, including HTML and CSS implementations, to improve your UI skills.
 
-## [30 Days of CSS](https://30dayscsschallenge.com/)
+## [30 Days of CSS](https://github.com/cunhasbia/30-days-of-CSS)
 
 A challenge that provides a new CSS task every day for 30 days.
 
