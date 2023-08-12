@@ -1,0 +1,10 @@
+Running as harindraodinschool@gmail.com (Student)
+
+    project: /Users/harindramasna/Documents/Odinschool/odin_trainings/training/practice_projects/html_css/006_basic_image_carousel_using_just_HTML_and_CSS/
+      domain: css-only-carousel.surge.sh
+      upload: [====================] 100% eta: 0.0s (7 files, 2894215 bytes)
+        CDN: [====================] 100%
+  encryption: *.surge.sh, surge.sh (293 days)
+          IP: 138.197.235.123
+
+Success! - Published to css-only-carousel.surge.sh
