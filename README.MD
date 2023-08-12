@@ -104,4 +104,4 @@ Showing only one box at a time with overflow and making it swipable with overscr
 You can make the “slides” line up nicely with scroll-snap-type.
 A couple of #jump-links is all you need to make navigation for it, which you can make all nice and smooth with scroll-behavior.
 
-[![Simple HTML Web page with CSS](https://css-only-carousel.surge.sh/preview.png)](https://css-only-carousel.surge.sh/preview.mp4)
+[![Simple HTML Web page with CSS](https://css-only-carousel.surge.sh/preview.gif)](https://css-only-carousel.surge.sh)
