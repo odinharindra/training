@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Odinschool | Bootstrap heads-up</title>
+
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <nav class="navbar bg-body-tertiary">
+        <div class="container">
+          <a class="navbar-brand" href="#">
+            <img
+              src="https://www.odinschool.com/hubfs/OdinSchool_V3/icons/Odinschool_v3_logo.svg"
+              alt="Bootstrap-icon"
+              height="36"
+            />
+          </a>
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="#">Data Science</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Web Developer</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Success Stories</a>
+            </li>
+          </ul>
+
+          <a class="nav-link" href="#">Sign In</a>
+        </div>
+      </nav>
+    </header>
+
+    <section class="container py-5">
+      <div class="row align-items-center justify-content-between">
+        <div class="col-12 col-md-6 col-lg-5">
+          <h1 class="display-5">Fast-Track Your Career</h1>
+          <button class="btn btn-outline-primary" onclick="alertMyName(this)">
+            This is my Button
+          </button>
+        </div>
+        <div class="col-12 col-md-6 col-lg-4 order-first">
+          <img
+            class="w-100"
+            src="https://www.odinschool.com/hs-fs/hubfs/OdinSchool_V3/home/Head_Image_side.webp?width=1000&height=654&name=Head_Image_side.webp"
+            alt=""
+          />
+        </div>
+      </div>
+    </section>
+
+    <script>
+      function alertMyName(ourButton) {
+        const newButton = document.createElement("BUTTON");
+        newButton.innerText = "My new Button";
+        ourButton.parentNode.appendChild(newButton);
+
+        console.log(ourButton);
+        ourButton.remove();
+      }
+    </script>
+  </body>
+</html>

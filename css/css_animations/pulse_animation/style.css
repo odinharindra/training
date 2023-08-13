@@ -26,13 +26,16 @@ body {
   height: 100px;
   border-radius: 50%;
   background-color: red;
-  animation: floating 1.5s ease-in-out infinite;
+  animation: pulsation 5s ease-in-out infinite;
 }
 
 /* 2 Seconds is equal to 2000 milli seconds */
 /* 0% => 0th milli second */
 /* 50% => 1000th milli second */
 /* 100% => 2000th milli second */
+
+/* 0th Frame to 60th Frame =>  */
+/* 60th Frame to 120th Frame =>  */
 
 @keyframes pulsation {
   /* 0% => 0th milli second */
@@ -42,33 +45,14 @@ body {
     height: 0px;
     margin-top: 0px;
   }
-  25% {
-    opacity: 1;
-    width: 100px;
-    height: 100px;
-    border-radius: 0px;
-  }
-  /* 50% => 1000th milli second */
+
   50% {
-    opacity: 1;
-    width: 200px;
-    height: 100px;
-    border-radius: 0px;
-  }
-
-  60% {
-    opacity: 1;
-    width: 200px;
-    height: 200px;
-    border-radius: 0px;
-    margin-top: -200px;
-  }
-
-  75% {
+    /* margin-top: -70px; */
     opacity: 1;
     width: 100px;
     height: 100px;
   }
+
   /* 100% => 2000th milli second */
   100% {
     opacity: 0;
