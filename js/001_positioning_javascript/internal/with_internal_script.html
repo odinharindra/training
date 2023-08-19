@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Odinschool | Javascript 001</title>
+  </head>
+  <body>
+    <h1 class="My-page-heading" id="page_heading">Javascript <strong>Introduction</strong></h1>
+    <ul id="user-list">
+      <li>No users</li>
+    </ul>
+    <!-- <button onclick="insertUsers()">Insert Users</button> -->
+
+    <script>
+      const usersList = [
+        "angel",
+
+        "bubbles",
+
+        "shimmer",
+
+        "angelic",
+
+        "bubbly",
+
+        "glimmer",
+
+        "baby",
+
+        "pink",
+
+        "little",
+
+        "butterfly",
+
+        "sparkly",
+
+        "doll",
+
+        "sweet",
+
+        "sparkles",
+
+        "dolly",
+
+        "sweetie",
+
+        "sprinkles",
+
+        "lolly",
+
+        "princess",
+
+        "fairy",
+
+        "honey",
+
+        "snowflake",
+
+        "pretty",
+
+        "sugar",
+
+        "cherub",
+
+        "lovely",
+
+        "blossom",
+      ];
+      function insertUsers() {
+        let usersListHtml = "";
+        usersList.forEach((user) => {
+          // const li = document.createElement("li");
+          // li.innerText = user;
+          // document.getElementById("user-list").appendChild(li);
+          usersListHtml = usersListHtml + "<li>" + user + "</li>";
+        });
+        console.log("usersListHtml", usersListHtml);
+        document.getElementById("user-list").innerHTML = usersListHtml;
+      }
+      insertUsers();
+    </script>
+  </body>
+</html>
